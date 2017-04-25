@@ -1,0 +1,28 @@
+{
+  "name": "rowancaney.co.uk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartcaney/rowancaney.co.uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartcaney/rowancaney.co.uk/issues"
+  },
+  "homepage": "https://github.com/stuartcaney/rowancaney.co.uk#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-static": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-plugin-html": "^2.0.1"
+  }
+}
