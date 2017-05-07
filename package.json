@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/stuartcaney/rowancaney.co.uk#readme",
   "dependencies": {
-    "koa": "^2.2.0",
-    "koa-static": "^3.0.0"
+    "express": "^4.15.2"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
