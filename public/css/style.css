@@ -91,7 +91,7 @@ html, body {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Space Mono', monospace;
   line-height: 1;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -133,7 +133,7 @@ label {
   touch-action: manipulation;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-tap-highlight-color: transparent;
-  font-family: 'pressura', sans-serif;
+  font-family: 'Space Mono', monospace;
 }
 
 
